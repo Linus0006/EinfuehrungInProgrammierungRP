@@ -1,7 +1,9 @@
 package first;
 
 public class Linus {
-    static void main() {
+    public static void main(String[] args) {
+        int x = 3;
+    }
 
     }
 }
